@@ -24,4 +24,4 @@ All response parsing is very minimalistic. E.g. date/time strings are not parsed
 
 Currently this project is at alpha stage because only small
 subset of commands is implemented for this particular project:
-https://declassed.art/repository/dtcm2 ([github mirror](https://github.com/declassed-art/clabate)).
+https://declassed.art/repository/dtcm2 ([github mirror](https://github.com/declassed-art/dtcm2)).
